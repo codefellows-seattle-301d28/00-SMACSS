@@ -1,0 +1,10 @@
+hr {
+  clear: both;
+  border: 0;
+  height: 13px;
+  background-image: url('img/hr-img.gif');
+}
+
+.print img {
+  margin-right: 3px;
+}
