@@ -1,0 +1,15 @@
+header, main, footer {
+  margin: 0 auto;
+  width: 900px;
+}
+
+aside {
+  padding-top: 30px;
+  padding-bottom: 60px
+}
+
+h1 {
+  padding-left: 50px;
+  font-family: 'Yellowtail', cursive;
+  font-size: 2.4em;
+}
