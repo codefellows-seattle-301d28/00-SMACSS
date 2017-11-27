@@ -61,6 +61,13 @@ section hr {
   height: 0;
 }
 
+hr {
+  clear: both;
+  border: 0;
+  height: 13px;
+  background-image: url('img/hr-img.gif');
+}
+
 footer section p{
   padding: 50px 0;
   line-height: 1.5em;

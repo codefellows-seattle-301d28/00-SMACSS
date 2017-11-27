@@ -14,13 +14,6 @@ main p {
   margin: 20px 0px;
 }
 
-hr {
-  clear: both;
-  border: 0;
-  height: 13px;
-  background-image: url('img/hr-img.gif');
-}
-
 h2 {
   margin-top: 50px;
   font-family: 'Oswald', sans-serif;
