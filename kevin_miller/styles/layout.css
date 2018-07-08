@@ -1,0 +1,9 @@
+header, main, footer {
+  margin: 0 auto;
+  width: 900px;
+}
+
+aside {
+  padding-top: 30px;
+  padding-bottom: 60px
+}
